@@ -1,0 +1,5 @@
+Double Rainbow
+This python program is a menu driven program to create MD5, LM, 
+and NTLM hash rainbow tables a supplied wordlists. 
+The python program also has the ability to create the tables 
+and upload them as JSON objects to an ElasticSearch instance.
